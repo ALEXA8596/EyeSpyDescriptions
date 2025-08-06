@@ -1,0 +1,8 @@
+/Jax
+/node_modules
+/PhoenixAZ
+/src/output
+/src/output_excerpts
+.env
+service-account.json
+package-lock.json
